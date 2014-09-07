@@ -1,0 +1,64 @@
+{
+  "name": "snooze-notify",
+  "version": "0.0.3",
+  "description": "Mobile notification through APNS, GCM, MPNS, WNS, and Amazon ADM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iamchairs/snooze-notify.git"
+  },
+  "keywords": [
+    "snooze",
+    "snoozejs",
+    "mobile",
+    "notification",
+    "notify",
+    "APNS",
+    "GCM",
+    "MPNS",
+    "WNS",
+    "ADM",
+    "Apple",
+    "Google",
+    "Windows",
+    "ios",
+    "android",
+    "phone"
+  ],
+  "author": {
+    "name": "Micah Williamson"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchairs/snooze-notify/issues"
+  },
+  "homepage": "https://github.com/iamchairs/snooze-notify",
+  "dependencies": {
+    "apn": "^1.6.1"
+  },
+  "gitHead": "e7dcd95d3474319cf1d27b51083c757661b202b3",
+  "_id": "snooze-notify@0.0.2",
+  "_shasum": "61eb0704452c0c53f77608082f609cfc3c60c025",
+  "_from": "snooze-notify@",
+  "_npmVersion": "1.4.23",
+  "_npmUser": {
+    "name": "iamchairs",
+    "email": "micahwllmsn@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "iamchairs",
+      "email": "micahwllmsn@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "61eb0704452c0c53f77608082f609cfc3c60c025",
+    "tarball": "http://registry.npmjs.org/snooze-notify/-/snooze-notify-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/snooze-notify/-/snooze-notify-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
